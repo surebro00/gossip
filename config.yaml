@@ -2,7 +2,7 @@
 title: Stackbit Ampersand Theme
 baseURL: "/"
 params:
-  layout_style: list
+  layout_style: grid
   palette: green
   header:
     title: Ampersand
