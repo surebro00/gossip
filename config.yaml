@@ -2,19 +2,16 @@
 title: Stackbit Ampersand Theme
 baseURL: "/"
 params:
-  layout_style: grid
+  layout_style: list
   palette: red
   header:
-    title: Ampersand
-    logo_img: images/logo.png
+    title: GATTO CURIOSO
+    logo_img: "/images/Blue and Yellow Cat Animal & Pets Logo-1.png"
     has_nav: true
   footer:
     content: "&copy; All rights reserved."
-    links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
-      new_window: true
-    has_social: true
+    links: []
+    has_social: false
 disableKinds:
 - RSS
 - taxonomy
