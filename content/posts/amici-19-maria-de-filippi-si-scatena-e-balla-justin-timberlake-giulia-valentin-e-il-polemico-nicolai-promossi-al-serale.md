@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/Amici-cropped-1.jpg"
 date = 2020-02-01T23:00:00Z
-draft = true
 excerpt = "Rimangono solo sei posti per la fase più importante del talent show di Canale 5. A sorpresa, la new entry Nicolai conquista subito la maglia verde ma nel frattempo si scaglia contro il prof Timor. Ma il momento più divertente della serata lo regala Maria De Filippi, che si scatena in un ballo assieme agli altri professori"
 layout = "post"
 subtitle = ""
